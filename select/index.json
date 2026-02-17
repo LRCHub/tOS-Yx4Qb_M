@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Walk This Way",
+  "base_artist": "ZORN",
+  "createdAt": "2026-02-17T15:17:47.515403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Run-D.M.C.",
+      "has_synced": true,
+      "path": "select/01_Walk_This_Way_Run-D.M.C..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/02_Walk_This_Way_Run-DMC.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/03_Walk_This_Way_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Run-D.M.C.",
+      "has_synced": false,
+      "path": "select/04_Walk_This_Way_Run-D.M.C..txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "MØ",
+      "has_synced": true,
+      "path": "select/05_Walk_This_Way_MØ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Run DMC",
+      "has_synced": true,
+      "path": "select/06_Walk_This_Way_Run_DMC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Walk This Way (Demo)",
+      "artist": "Run-DMC",
+      "has_synced": false,
+      "path": "select/07_Walk_This_Way_(Demo)_Run-DMC.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/08_Walk_This_Way_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/09_Walk_This_Way_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/10_Walk_This_Way_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/11_Walk_This_Way_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/12_Walk_This_Way_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Walk This Way",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/13_Walk_This_Way_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Walk This Way (with Run DMC)",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/14_Walk_This_Way_(with_Run_DMC)_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Walk this way",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/15_Walk_this_way_Aerosmith.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Walk This Way (AKLO)",
+      "artist": "ZORN",
+      "has_synced": false,
+      "path": "select/pl_01_Walk_This_Way_(AKLO)_ZORN.txt"
+    }
+  ]
+}
